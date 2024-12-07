@@ -30,7 +30,7 @@ To run this application, you'll need the following installed:
 
 ## Installation
 - Clone this repository to your local machine:
-- git clone `https://github.com/your-username/Advanced-To-Do-List-Application.git`
+- git clone `https://github.com/Ohimoiza1205/Advanced-To-Do-List-Application.git`
 - Navigate to the project directory:
 - `cd advanced-to-do-list-app`
 
