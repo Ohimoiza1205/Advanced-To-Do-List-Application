@@ -15,10 +15,10 @@
 - **QHBoxLayout & QVBoxLayout**: Applied for efficient layout management and widget placement in the application window.
 
 ## Features
-- Add Task: Add new tasks to the list.
-- Delete Task: Remove tasks from the list.
-- Mark as Complete: Mark tasks as completed, updating their status.
-- Search: Filter tasks based on the search query.
+- **Add Task**: Add new tasks to the list.
+- **Delete Task**: Remove tasks from the list.
+- **Mark as Complete**: Mark tasks as completed, updating their status.
+- **Search**: Filter tasks based on the search query.
 
 # Getting Started
 ## Prerequisites
